@@ -1,0 +1,11 @@
+<?xml version="1.0" ?>
+<PluginV1XML xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <FRIENDLY_NAME>Programming with Pictures</FRIENDLY_NAME>
+  <DLL_FILENAME>Programming with Pictures.dll</DLL_FILENAME>
+  <AUTHOR_NAME>DJ Sures</AUTHOR_NAME>
+  <LICENSE_URL>http://www.ez-robot.com/tutorials/plugin-license.aspx</LICENSE_URL>
+  <PLUGIN_GUID>802ea058-59a4-4daa-9cb1-e3c25008ffd4</PLUGIN_GUID>
+  <CATEGORY_TYPE>Camera</CATEGORY_TYPE>
+  <DESCRIPTION>Program your robot using images printed on paper.</DESCRIPTION>
+  <VersionRelease>2</VersionRelease>
+</PluginV1XML>
