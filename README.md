@@ -4,6 +4,6 @@ Using the camera, this control will allow you to add programming commands by hol
 
 ## License
 
-For profit use of these files requires written consent. Contact partners@synthiam.com. For everyone else party on!
+For profit use of these files requires written consent. Contact partners@synthiam.com. For everyone else, party on!
 
 Please see LICENSE.md for license details.
